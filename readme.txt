@@ -1,0 +1,3 @@
+Este juego ha sido desarrollado en 48h para participar en la Global Game Jam 2014.
+El argumento es simple. La evolución podría haber seguido otro camino… Y lo hizo… Somos un gato adicto a la leche. Es nuestro bien más preciado, pero ese maldito humano siempre intenta robárnosla. Por suerte, tenemos a nuestra disposición la mejor defensa, el Colleja-o-matic, que hará desistir a ese humano mezquino de sus propósitos.
+El juego es tan simple que incluso un gato podría jugar. Simplemente, evita que se lleven tus bricks de leche accionando nuestro mecanismo de defensa.
